@@ -141,9 +141,9 @@ var respecConfig = {
   // thi scan be configured below
   // if not set, the url's will be generated on the respecConfig.github automatically
   nl_github: {
-    issueBase: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/issues",
-    revision: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/commits",
-    pullrequests: "https://github.com/Logius-standaarden/Logius-standaarden/BOMOS-voorbeeld-beheermodel/pulls"
+    issueBase: "https://github.com/Logius-standaarden/Logius-Beheermodel/issues",
+    revision: "https://github.com/Logius-standaarden/Logius-Beheermodel/commits",
+    pullrequests: "https://github.com/Logius-standaarden/Logius-Beheermodel/pulls"
   },
 
   // nl_organisationName is used for some company specific values in the header (and Sotd)
