@@ -1,18 +1,18 @@
-# Bijlage: Gebruik Github in het beheerproces
+# Bijlage: Gebruik GitHub in het beheerproces
 
 ## Publicatie
-Github biedt functionaliteit om documenten te publiceren vanuit een
+GitHub biedt functionaliteit om documenten te publiceren vanuit een
 repository. Logius gebruikt deze functionaliteit om het met
-[Respec](#bijlage-gebruik-respec) gegenereerde document te publiceren
-als HTML document en een PDF document. Deze documenten worden automatisch
-gekopieerd naar een publicatie wesite onder Logius beheer.
+[ReSpec](#bijlage-gebruik-respec) gegenereerde document te publiceren
+als HTML-document en een PDF-document. Deze documenten worden automatisch
+gekopieerd naar een publicatiewebsite onder Logiusbeheer.
 
 ## Wijzigingsvoorstellen
 Het proces zoals beschreven onder
 [operationeel beheer, wensen en eisen](#wensen-en-eisen)
 wordt voor de Logius standarden geïmplementeerd door gebruik te maken
-van _github issues_. Een _issue_ kan binnen github ingediend worden
-door iedere (github) gebruiker en wordt bij ontwikkeling van code
+van _GitHub issues_. Een _issue_ kan binnen GitHub ingediend worden
+door iedere (GitHub)gebruiker en wordt bij ontwikkeling van code
 gebruikt om functionele wensen of gevonden bugs in te dienen zodat
 deze door ontwikkelaars opgepakt kunnen worden. Een _issue_ kan
 online besproken worden en uiteindelijk gesloten worden wanneer
@@ -26,9 +26,9 @@ wijzigingen die in een volgende geaccepteerde versie opgenomen moeten
 worden.
 
 Aanpassingen in de documentatie die voor een specifiek wijzingsvoorstel
-gemaakt worden worden in eigen branch verwerkt. Deze branch wordt geforked vanaf de _develop_ branch en wordt nadat het wijzigingsverzoek aangenomen
+gemaakt worden worden in eigen branch verwerkt. Deze branch wordt gesplitst vanaf de _develop_ branch en wordt nadat het wijzigingsverzoek aangenomen
 is teruggebracht naar de _develop_ branch. Voorbeeld: een wijzigingsverzoek
-voor het aanpassen van de architectuurbeschrijving zal in een branche _nieuwe architectuur_ worden verwerkt. Deze wordt geforked vanaf, en
+voor het aanpassen van de architectuurbeschrijving zal in een branche _nieuwe architectuur_ worden verwerkt. Deze wordt gesplitst vanaf, en
 teruggebracht naar, de _develop_ branch. Door wijzigingen in een eigenaarbranch op te nemen zijn alle wijzigingen op de documentatie inzichtelijk per wijzigingsvoorstel.
 
 De _develop_ branch wordt dus niet gebruikt om wijzigingen op het document
@@ -36,7 +36,7 @@ te maken maar dient als verzamelbranch voor de verschillende wijzigingen
 die in een volgende release moeten komen.
 
 ### Labels
-Om github issues te classificeren en te agenderen voor het juiste overleg
+Om GitHub issues te classificeren en te agenderen voor het juiste overleg
 maken we gebruik van een aantal standaard labels. We labelen binnenkomende
 issues als
 
@@ -60,7 +60,7 @@ issues als
    4. Toegang
    5. Interactie
    6. Infrastructuur
-4. Status
+4. **Status**
    1. In onderzoek
    2. In bewerking
    3. Uitwerking door derden
@@ -70,7 +70,7 @@ issues als
    7. Afgewezen
 
 ## Automatisering en scripts
-Github ondersteunt automatisering van taken door scripts. Standaard
+GitHub ondersteunt automatisering van taken door scripts. Standaard
 is de publicatie via _github pages_. Binnen de Logius standaarden maken
-we gebruik van scripts om links te checken en om een paar eenvoudige
+we gebruik van scripts om documenten te publiceren, links te checken en om een paar eenvoudige
 tests op digitoegankelijkheidseisen uit te voeren.
