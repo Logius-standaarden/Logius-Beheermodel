@@ -6,6 +6,12 @@
 > Logius) xxxxx standaard beheert en hoe de bijbehorende governance is
 > ingericht.
 
+### Bijlagen
+Practische aspecten van het beheer, zoals de gebruikte applicaties
+en webservices zijn opgenomen in bijlagen van dit document.
+De bijlagen zijn niet specifiek voor een standaard maar zijn relevant
+voor alle standaarden onder beheer bij Logius.
+
 ## _Vul naam van de standaard hier in_
 
 Beschrijf hier de standaard
@@ -76,7 +82,7 @@ programmeertalen en frameworks zoals Python, Java, Microsoft C\#, PHP.
 
 ### Status
 
-Beschrijf hier de status van de standaard
+_Beschrijf hier de status van de standaard_
 
 <aside class="example">
 De actuele versie van de ADR-standaard is 1.0. Deze versie is op
@@ -85,58 +91,9 @@ Standaardisatie.
 </aside>
 
 ## BOMOS
+Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
+activiteiten worden elk in een hoofdstuk besproken.
 
-> ![](./media/image3.png)Logius richt de beheerorganisatie in conform
-> het Beheer en Ontwikkel Model voor Open Standaarden (BOMOS). Ook het
-> beheer van de xxxxx is op basis van BOMOS ingericht. Voor de
-> beheerorganisatie heeft Logius een generiek beheermodel opgezet, waar
-> het beheerplan van xxx is afgeleid.
+![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
 
-![](./media/image1.png)
-
-*Figuur 1 Bomos model*
-
-![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
-
-[<span class="underline">BOMOS, het
-fundament</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/)
-
-[<span class="underline">BOMOS, de
-verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
-
-[<span class="underline">'Publicatie-BOMOS-2i.pdf'</span>](https://www.forumstandaardisatie.nl/sites/default/files/BFS/4-basisinformatie/publicaties/Publicatie-BOMOS-2i.pdf)
-
-BOMOS onderscheidt verschillende levenscyclusfases waarin een
-standaard zich kan bevinden. Deze fase bepaalt mede op welke
-beheeronderdelen meer of minder wordt ingezet. De verschillende fases
-zijn:
-
-1.  Creatie/ontwikkeling
-2.  Introductie
-3.  Implementatie/groei
-4.  Volwaardige toepassing
-5.  Uitfaseren
-
-![](./media/image7.png)![](./media/image8.png)Adoptie
-
-![](./media/image10.png)
-
-Tijd
-
-*Figuur 2 Bomos levenscyclus*
-
-De xxx bevindt zich in de xxx fase. De eerste versie van de standaard
-is xxx aangemeld bij het Forum Standaardisatie en op xxx op de lijst
-van verplichte standaarden opgenomen. Vanuit het xxx en Logius
-afdeling Standaarden wordt momenteel nog volop aan de xxx gewerkt en
-de verwachting is dat de standaard nog de nodige ontwikkelingen door
-gaat maken.
-
-Daarom is er komende tijd vooral aandacht voor:
-
-Het in de praktijk bestendigen van het beheer van de standaard;
-Gestaag doorontwikkeling van de specificaties zelf;
-
-Bouwen en aanbieden ondersteunende tooling; Groei in het aantal
-toepassingen van de standaard; Monitoring van het gebruik van de
-standaard; Groei van de community rond de standaard.
+Voor meer details of BOMOS verwijzen we naar de documentatie: [BOMOS, het fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS, de verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
