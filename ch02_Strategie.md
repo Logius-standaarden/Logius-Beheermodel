@@ -2,7 +2,7 @@
 
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
 Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
-het beheer van xxxx worden hieronder beschreven.
+het beheer van _xxxx_ worden hieronder beschreven.
 
 ## Visie
 
@@ -36,14 +36,19 @@ stappen:
 
 Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten met open standaarden (forumstandaardisatie.nl)](https://www.forumstandaardisatie.nl/sites/default/files/BFS/3-lijsten/standaarden-aanmelden/toetsen/Toetsingsprocedure-en-criteria-22_0.pdf)
 
-De afdeling Standaarden van Logius werkt samen met het Forum
-Standaardisatie aan de promotie van open standaarden via
-kennisplatforms, bijeenkomsten en seminars. De standaarden die Logius
-beheert, zijn verplichte standaarden voor overheidsorganisaties en
-staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
-via wetgeving.
-
 ## Governance
+Bij het beheer van een open standaard hoort een open governance en een
+open procedure voor belanghebbenden om te kunnen participeren in het
+beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
+beheerpartij en facilitator. Logius gaat uit van de governance van de
+Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
+is een governance opgesteld waarin de stakeholders van Logius richting
+geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
+deze governance.
+
+![MIDO governance](images/MIDOgovernance.png "MIDO governance")
+
+De MIDO governance kent vier _programmeringstafels_ op de thema's _Gegevensuitwisseling_, _Infrastructuur_, _Interactie_ en _Toegang_. Op de tafels wordt de ontwikkeling en prioritering van de door Logius beheerde stelsels, standaarden en diensten besproken met de stakeholders.
 
 ### Governancestructuur
 
@@ -54,14 +59,14 @@ beheerpartij en facilitator. Bij het beheer van de xxx worden
 verschillende gremia onderscheiden die gezamenlijk invulling geven aan
 de governance op de standaard:
 
-1.  xxx-community (Interesse Groep - IG)
+####  _xxxx_-community
 
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
 xxx-standaard en suggesties kan doen voor de doorontwikkeling van de
-standaard. Dergelijke vragen en suggesties worden door xxx verzameld
+standaard. Dergelijke vragen en suggesties worden door Logius Standaardenbeheer verzameld
 en voorgelegd aan het Technisch Overleg en als issue geregistreerd bij
-de werkgroep xxx van het kennisplatform xxx
+de werkgroep _xxxx_ van het kennisplatform _xxxx_.
 
 2.  Technisch Overleg (Technische Architectuur Groep – TAG)
 
