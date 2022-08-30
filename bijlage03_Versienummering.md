@@ -4,11 +4,11 @@ Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om o
 De beschreven methodiek is van toepassing op de standaarden die Logius in beheer heeft. In de tekst worden Digikoppeling standaarden als voorbeeld aangehaald maar semantische versienummering is ook op de andere standaarden van toepassing.
 
 ## Versioneringsmethodiek
-Per document wordt met `[documentnaam]_X.Y.Z` de versie aangegeven.
+Per document wordt met `[documentnaam] X.Y.Z` de versie aangegeven.
 Met `X.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches,
-dit wordt hieronder toegelicht:
+dit wordt hieronder toegelicht.
 
-## Patch Releases
+### Patch Releases
 In een patchrelease worden wijzigingen doorgevoerd die de technische
 specificatie niet raken. Dit kunnen tekstuele wijzigingen zijn of
 inhoudelijke indelingen van de documenten. De wijzigingen worden
@@ -17,7 +17,7 @@ op eigen initiatief of op aanwijzingen van gebruikers doorgevoerd en gepubliceer
 Een patchrelease wordt aan het Technisch Overleg ter kennisgeving medegedeeld.
 Een nieuwe patchrelease vervangt een eerdere versie in zijn geheel.
 
-## Minor releases
+### Minor releases
 In een minor release kunnen wijzigingen doorgevoerd worden die de technische
 specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie
 zijn, het verzwaren of verlichten van een restrictie of een aanpassing van
@@ -31,7 +31,7 @@ Voor Minor Releases wordt een uitgebreid vaststellingsprocedure gevolgd
 van het Technisch Overleg tot een migratiepad worden besloten. Dit migratiepad
 wordt in de release meegenomen.
 
-## Major Releases
+### Major Releases
 Er zijn twee Major release momenten: de overgang naar nieuwe externe
 (meestal internationale) standaarden binnen een bestaand profiel, of de
 toevoeging van een geheel nieuw profiel. In het eerste geval komt er een
