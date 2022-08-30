@@ -1,7 +1,7 @@
 # Bijlage: versie-nummering Logius standaarden
-Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van de Logius (afdeling standaarden) en is gebaseerd op Semver. Semver staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals gepubliceerd op [specificatie van Semantisch Versioneren (SEMVER)](https://semver.org/lang/nl/#semantisch-versioneren-200).
+Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op Semver. Semver staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals gepubliceerd op [specificatie van Semantisch Versioneren (SEMVER)](https://semver.org/lang/nl/#semantisch-versioneren-200).
 
-De beschreven methodiek is van toepassing op de standaarden die Logius in beheer heeft. In de tekst worden Digikoppeling standaarden als voorbeeld aangehaald maar semantisce vveersienummering is ook op de andere standaarden van toepassing.
+De beschreven methodiek is van toepassing op de standaarden die Logius in beheer heeft. In de tekst worden Digikoppeling standaarden als voorbeeld aangehaald maar semantische versienummering is ook op de andere standaarden van toepassing.
 
 ## Versioneringsmethodiek
 Per document wordt met `[documentnaam]_X.Y.Z` de versie aangegeven.
@@ -20,15 +20,15 @@ Een nieuwe patchrelease vervangt een eerdere versie in zijn geheel.
 ## Minor releases
 In een minor release kunnen wijzigingen doorgevoerd worden die de technische
 specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie
-zijn, het verzwaren of verlichten van een restrictie of het een aanpassing van
+zijn, het verzwaren of verlichten van een restrictie of een aanpassing van
 een beveiligingstandaard (zoals TLS 1.0 naar TLS 1.2). In de SEMVER aanpak zijn
 minor releases backwards compatible. Voor de uitwisselingsstandaarden zoals
 Digikoppeling is backwards compatibility lastiger te bepalen omdat uiteindelijk
 twee partijen met elkaar moeten meebewegen.
 **Minor Releases kunnen dus mogelijk backwards incompatible zijn**.
-Voor Minor Releases wordt een uitgebreid vaststellings-procedure gevolgd
+Voor Minor Releases wordt een uitgebreid vaststellingsprocedure gevolgd
 (conform het beheermodel van de standaard) en er kan in overleg met de deelnemers
-van het Technisch OVerleg tot een migratiepad worden besloten. Dit migratiepad
+van het Technisch Overleg tot een migratiepad worden besloten. Dit migratiepad
 wordt in de release meegenomen.
 
 ## Major Releases
@@ -44,7 +44,7 @@ gevolgd en vervolgens de procedure van het Forum Standaardisatie.
 
 <aside class="example" title="Grote wijzigingen voor Digikoppeling">
 Bij de overgang naar een andere externe standaard binnen een bestaand
-profiel kan men denkan aan een overgang naar HTTP 2.0 of SOAP 1.2 binnen
+profiel kan men denken aan een overgang naar HTTP 2.0 of SOAP 1.2 binnen
 Digikoppeling WUS koppelvlakspecificatie.
 Het toevoegen van een geheel nieuw profiel kan voor Digikoppeling kan bestaan
 uit het toevoegen van een Grote Berichten Push variant of ebMS3/AS4
