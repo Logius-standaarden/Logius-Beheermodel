@@ -76,11 +76,7 @@ var respecConfig = {
 
   // An array of person objects describing the editors of the document
   // this can be simple or more elaborated
-  editors: [{
-    name: "Gül Işik",
-    url: "https://logius.nl/standaarden",
-    company: "Logius",
-  },
+  editors: [
   {
     name: "Edwin Wisse",
     url: "https://logius.nl/standaarden",
@@ -96,7 +92,7 @@ var respecConfig = {
   }
   ],
   // The github option allows you associate your specification with a repository on GitHub.
-  github: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel",
+  github: "https://github.com/Logius-standaarden/Logius-Beheermodel",
 
   // The URL of your test suite, gets included in the specification's headers.
   // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
@@ -114,12 +110,12 @@ var respecConfig = {
   // maxTocLevel: 3,
 
   // Shows links to alternate formats (such as PDF, ePub) in the document header.
-  // alternateFormats: [
-  //   {
-  //     label: "pdf",
-  //     uri: "Template-Repository.pdf",
-  //   },
-  // ],
+  alternateFormats: [
+    {
+      label: "pdf",
+      uri: "Logius-Beheermodel.pdf",
+    },
+  ],
 
   // You can use markdown to write ReSpec based documents.
   // format: "markdown",
