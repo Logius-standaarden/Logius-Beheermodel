@@ -6,6 +6,6 @@ Deze bijlagen zijn oorspronkeiijk gemaakt voor het [Digikoppeling beheermodel](h
 toepasbaar.
 
 Links naar de gerespecte versies van dit document:
-- html: https://logius-standaarden.github.io/Logius-beheermodel/
-- html(static): https://logius-standaarden.github.io/Logius-beheermodel/snapshot.html
-- [PDF-versie](https://github.com/Logius-standaarden/Logius-beheermodel/blob/develop/Logius-beheermodel.pdf)
+- html: https://logius-standaarden.github.io/Logius-Beheermodel/
+- html(static): https://logius-standaarden.github.io/Logius-Beheermodel/snapshot.html
+- [PDF-versie](https://github.com/Logius-standaarden/Logius-Beheermodel/blob/develop/Logius-Beheermodel.pdf)
