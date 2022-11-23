@@ -80,7 +80,7 @@ In het onderstaande voorbeeld zien wij een standaard van 1.0.0 naar 1.1.0 ontwik
   <figcaption>Gitflow</figcaption>
 </figure>
 
-De branch main is de huidig gepubliceerde versie en de branch develop is de werkversie. Het uitwerken van een RFC gebeurt in een afsplitsing van de develop branch waarna het terug de develop branch invloeit. In het voorbeeld schema leidde RFC1 tot de eerste release candidate (rc) van versie 1.1.0 van de standaard. Wanneer de werkversie gereed en akkoord is als release stromen de wijzigingen naar de branch main.
+De branch main is de huidig gepubliceerde versie en de branch develop is de werkversie. Dit wordt als documentstatus aangegeven. In de main branch staat dus een _vastgestelde versie_. Het uitwerken van een RFC gebeurt in een afsplitsing van de develop branch waarna het terug de develop branch invloeit. In het voorbeeld schema leidde RFC1 tot de eerste release candidate (rc) van versie 1.1.0 van de standaard. Wanneer de werkversie gereed en akkoord is als release stromen de wijzigingen naar de branch main. Na overgang van de develop branch naar de gepubliceerde main branch moet de status van het document worden aangepast in de main branch.
 
 Het kan voorkomen dat gewenst wordt vlug een kleine (niet inhoudelijke) aanpassing aan de gepubliceerde versie te maken. Om bijvoorbeeld een spelfout vlug te corrigeren kan deze aanpassing op main i.p.v. develop worden uitgevoerd. In het voorbeeld leidde een hotfix tot een release van versie 1.0.1 waarna de aanpassing naar de werkversie geduwd wordt.
 </aside>
