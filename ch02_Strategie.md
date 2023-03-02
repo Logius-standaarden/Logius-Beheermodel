@@ -41,7 +41,8 @@ Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
 beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
 beheerpartij en facilitator. Logius gaat uit van de governance van de
-Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
+Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het 
+Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
 is een governance opgesteld waarin de stakeholders van Logius richting
 geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
 deze governance.
@@ -68,36 +69,33 @@ standaard. Dergelijke vragen en suggesties worden door Logius Standaardenbeheer 
 en voorgelegd aan het Technisch Overleg en als issue geregistreerd bij
 de werkgroep _xxxx_ van het kennisplatform _xxxx_.
 
-2.  Technisch Overleg (Technische Architectuur Groep – TAG)
+#### Technisch Overleg
 
-Het Technisch Overleg is een periodieke bijeenkomst van de Technische
-Architectuur Groep (TAG) waarbij de vragen en doorontwikkelwensen
-m.b.t. de xxx worden doorgenomen, geprioriteerd en worden uitgewerkt.
-Daarnaast wordt door de leden de releaseplanning en de roadmap
-opgesteld. Deelname aan de TAG is vrij voor eenieder die een belang
-heeft bij de standaard (overheid, wetenschap en markt)
+Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de
+vragen en doorontwikkelwensen m.b.t. de _xxxx_ standaard worden doorgenomen,
+geprioriteerd en worden uitgewerkt. Daarnaast wordt door de leden de
+releaseplanning en de roadmap opgesteld. Deelname aan het Technisch Overleg
+is vrij voor eenieder die een belang heeft bij de standaard
+(overheid, wetenschap en markt).
 
-3.  Tactisch overleg xxx
-
+#### Tactisch/strategisch overleg: de programmeringstafel
 Dit gremium is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van minor releases van de
 standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: het OBDO.
+strategisch/besluitvormende gremium: de Programmeringssraad GDI.
 
-4.  Het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
+Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
+de rol van tactisch overleg.
+[Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
+die deel uitmaakt van de agenda van het overleg.
 
-Dit is het hoogst ambtelijke gremium dat besluit over major releases
-van de standaard, het beheermodel van de standaard en externe
-publicaties over releases en van het standaardenbeleid. Op dit moment
-wordt het OBDO louter ‘gevoed’ door Forum Standaardisatie en is de
-focus voornamelijk het bestendigen van major releases van de
-standaard. Op het moment dat het tactische gremium is ingevuld, zal
-het OBDO waarschijnlijk een breder scala aan onderwerpen langs krijgen
-ter bestendiging.
 
-De MIDO structuur kan ook de mogelijkheid bieden om de
+#### Het besluitvormend en strategisch overleg: De Programmeringsraad GDI
+
+De MIDO structuur biedt de mogelijkheid bieden om de
 Programmeringsraad GDI te laten besluiten over de standaarden.
-Wijzigingen worden dan ter informatie aan het OBDO voorgelegd.
+Wijzigingen worden indien nodig ter informatie aan het Overheidsbreed 
+Beleidsoverleg Digitale Overheid (OBDO) voorgelegd.
 
 Het strategisch overleg neemt besluiten op basis van adviezen van de
 tactisch en strategische overleggen en het advies van de
@@ -111,19 +109,27 @@ In tabelvorm:
 
 | **Gremium**  | **Accent**   | **Rol participant**  | **Ondersteuning door beheerder (Logius)** |
 |     ---      |    ----      |         ---          |                   ---                     |
-| **Community** (omvang beperkt) | Inhoud -- delen    | Samen met alle leden van de Interesse Groep (IG): 1. Volgen van ontwikkelingen. 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community. 2. Deelnemen aan stuurgroep en werkgroepen |
-| Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | Samen met andere experts van de Technische Architectuur Groep (TAG): <br/>1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. 3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden. 4. Goedkeuring van aanpassingen op de standaard. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. 5. Beschikbaar stellen specificaties. |
-| Tactisch/Strategisch (4x per jaar) | Prioritering proces en uitwerken strategisch advies | Samen met andere participanten: <br/>1. Vaststellen roadmap van de standaard. <br/>2. Voorportaal OBDO 3. Vaststellen minor releases van de standaard. | 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
-| OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| **Community** (omvang beperkt) | Inhoud -- delen    | 1. Volgen van ontwikkelingen.<br/> 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community.<br/> 2. Deelnemen aan stuurgroep en werkgroepen |
+| Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
+| Programmeringstafel | Besltuivormend - adviserend | 1. Vaststellen roadmap van de standaard.<br/> 2. Vaststellen major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
+| Programmeringstafel | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en 
+Uitfasering bestaande koppelvlak standaarden. <br/> 2.Vaststellen beheermodel van de standaard.<br/> 3. Vaststellen externe publicaties over het standaardenbeleid en releases. | 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+
+### Architectuurraad
+De architectuurraad GDI van de MIDO governance maakt geen deel uit van het
+Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
+wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
+initiatief van het Technisch Overleg)
 
 ### Besluitvorming
 
 In alle overleggremia vindt besluitvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
-eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium (het
-OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
-OBDO (min. BZK) de beslissende stem.
+eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium 
+(de Programmeringsraad GDI) geen consensus bereikt kan worden kan 
+het OBDO gevraagd worden om een besluit, utieindelijk heeft de voorzitter 
+van het OBDO (ministerie van BZK) de beslissende stem.
 
 ### Deelname
 
@@ -132,28 +138,24 @@ participatie van de verschillende belanghebbenden. Belanghebbenden
 kunnen op vier manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
-1.  Als lid van de xxx Community van het Kennisplatform / de Interesse Groep (IG)
-2.  Als lid van de Technische Architectuur Groep (TAG)
-3.  Als lid van het Tactisch overleg
-4.  Als lid van het MIDO of OBDO
 
-> *Ad 1) Deelname aan de xxx-Community staat open voor alle
-> belanghebbenden; Ad 2) Invulling van het Tactisch overleg volgt, zodra
-> bekend is welk gremium dit is;*
->
-> *[Ad 3) Het OBDO kent een vaste vertegenwoordiging
-> .<span class="underline">Zie voor meer informatie de governance
-> van</span> <span class="underline">Digitaleoverheid.nl
-> </span>](https://www.digitaleoverheid.nl/governance-digitale-overheid/)*
->
-> *Ad 4) Aangezien het overleg van de Technische Architectuur Groep (het
-> Technisch Overleg) het eerste besluitvormende gremium is van de
-> standaard, en besluitvorming in dit gremium plaatsvindt op basis van
-> consensus, stelt Logius een aantal voorwaarden aan deelname:*
 
-1.  Leden van het technisch overleg dienen een aantoonbaar belang te hebben bij de standaard.
-2.  De omvang en samenstelling moet een goede vertegenwoordiging bevatten van de verschillende belangen rond de standaard. We gaan uit van 1 deelnemer per organisatie.
-3.  Het belang van de Nederlandse overheid dient voldoende geborgd te zijn in het technisch overleg.
+1.  Als lid van de Community. Er is geen formeel lidmaatschap nodig 
+    om een issue/wijziging in te dienen. Iedereen die een issue indient 
+    is daarmee lid van de community.
+2.  Als lid van de Technisch Overleg
+    1.  Leden van het technisch overleg dienen een aantoonbaar belang
+        te hebben bij de standaard.
+    2.  De omvang en samenstelling moet een goede vertegenwoordiging
+        bevatten van de verschillende belangen rond de standaard.
+        We gaan uit van 1 deelnemer per organisatie.
+    3.  Het belang van de Nederlandse overheid dient voldoende geborgd
+        te zijn in het technisch overleg.
+3.  Als lid van de Programmeringstafel Gegevensuitwisseling
+    1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
+       uitgenodigd.
+4.  Als lid van de Programmeringsraad GDI.
+
 
 Personen/partijen die willen deelnemen aan het technisch overleg
 kunnen een mail sturen aan xxxx waarin zij aangeven wat hun belang is
