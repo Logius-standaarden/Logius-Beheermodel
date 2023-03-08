@@ -80,7 +80,7 @@ is vrij voor eenieder die een belang heeft bij de standaard
 
 #### Tactisch/strategisch overleg: de programmeringstafel
 Dit gremium is verantwoordelijk voor het vaststellen van de
-doorontwikkel-roadmap, het vaststellen van minor releases van de
+doorontwikkel-roadmap, het vaststellen van major/minor releases van de
 standaard en dient als het voorportaal van het
 strategisch/besluitvormende gremium: de Programmeringssraad GDI.
 
