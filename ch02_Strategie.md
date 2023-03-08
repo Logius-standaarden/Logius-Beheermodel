@@ -161,7 +161,7 @@ kunnen een mail sturen aan xxxx waarin zij aangeven wat hun belang is
 bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
-## Financering
+## Financiering
 
 Het beheer van de xxx standaard wordt gefinancierd door min. BZK voor
 een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
