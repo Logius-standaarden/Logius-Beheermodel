@@ -127,7 +127,7 @@ consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium 
 (de Programmeringsraad GDI) geen consensus bereikt kan worden kan 
-het OBDO gevraagd worden om een besluit, utieindelijk heeft de voorzitter 
+het OBDO gevraagd worden om een besluit, uiteindelijk heeft de voorzitter 
 van het OBDO (ministerie van BZK) de beslissende stem.
 
 ### Deelname
