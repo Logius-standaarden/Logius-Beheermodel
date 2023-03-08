@@ -92,9 +92,9 @@ die deel uitmaakt van de agenda van het overleg.
 
 #### Het besluitvormend en strategisch overleg: De Programmeringsraad GDI
 
-De MIDO structuur biedt de mogelijkheid bieden om de
-Programmeringsraad GDI te laten besluiten over de standaarden.
-Wijzigingen worden indien nodig ter informatie aan het Overheidsbreed 
+De MIDO structuur biedt de mogelijkheid om de Programmeringsraad GDI 
+te laten besluiten over de standaarden. Wijzigingen worden indien 
+nodig ter informatie aan het Overheidsbreed 
 Beleidsoverleg Digitale Overheid (OBDO) voorgelegd.
 
 Het strategisch overleg neemt besluiten op basis van adviezen van de
@@ -110,12 +110,12 @@ In tabelvorm:
 | **Gremium**  | **Accent**   | **Rol participant**  | **Ondersteuning door beheerder (Logius)** |
 |     ---      |    ----      |         ---          |                   ---                     |
 | **Community** (omvang beperkt) | Inhoud -- delen    | 1. Volgen van ontwikkelingen.<br/> 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community.<br/> 2. Deelnemen aan stuurgroep en werkgroepen |
-| Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
+| Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
 | Programmeringstafel | Besluitvormend - adviserend | 1. Vaststellen roadmap van de standaard.<br/> 2. Vaststellen major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
 | Programmeringsraad | Besluitvormend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2.Vaststellen beheermodel van de standaard.<br/> 3. Vaststellen externe publicaties over het standaardenbeleid en releases. | 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 
 ### Architectuurraad
-De architectuurraad GDI van de MIDO governance maakt geen deel uit van het
+De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
 Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
 wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
 initiatief van het Technisch Overleg)
