@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html lang="nl">
-
-<head>
-  <meta charset='utf-8'>
-  <meta content="text/html; charset=utf-8" http-equiv="content-type">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>[Logius Standaard Beheermodel]</title>
-  <script src="js/config.js" class="remove"></script>
-  <link rel="shortcut icon" type="image/x-icon"   href="https://publicatie.centrumvoorstandaarden.nl/respec/style/logos/logius.ico" />
-  <script src="https://publicatie.centrumvoorstandaarden.nl/respec/builds/respec-logius.js" class="remove" async></script>
-
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <title>
+   [Logius Standaard Beheermodel]
+  </title>
+  <script class="remove" src="https://gitdocumentatie.logius.nl/publicatie/respec/organisation-config.js">
+  </script>
+  <script class="remove" src="js/config.js">
+  </script>
+  <script>
+   respecConfig = {...organisationConfig, ...respecConfig}; if (respecConfig.specStatus.toUpperCase() == "WV") {respecConfig.thisVersion = respecConfig.edDraftURI;}
+  </script>
+  <link href="https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/logius.ico" rel="shortcut icon" type="image/x-icon"/>
+  <script async="" class="remove" src="https://gitdocumentatie.logius.nl/publicatie/respec/builds/respec-nlgov.js">
+  </script>
   <!-- onderstaande style is optioneel -->
-  <link rel="stylesheet" type="text/css" href="./media/style.css">
+  <link href="./media/style.css" rel="stylesheet" type="text/css"/>
   <!-- of gebruik eventueel specifieke style instructies voor deze repo-->
   <!--
     <style type="text/css">
@@ -27,56 +34,62 @@
     }
   </style>
    -->
-</head>
-
-<body>
-  <section id='abstract'>
-    <p>
-      Samenvatting van het document - verplicht onderdeel.
-    </p>
+ </head>
+ <body>
+  <section id="abstract">
+   <p>
+    Samenvatting van het document - verplicht onderdeel.
+   </p>
   </section>
-  <section id='sotd'>
-    <p>
-      Status van het document - verplicht onderdeel. Een deel van de tekst wordt hierin gegenereerd door ReSpec op basis
-      van de configuratieparameter <a
-        href="https://github.com/centrumvoorstandaarden/respec/wiki/specStatus">specStatus</a>. Je kan dit zelf
+  <section id="sotd">
+   <p>
+    Status van het document - verplicht onderdeel. Een deel van de tekst wordt hierin gegenereerd door ReSpec op basis
+      van de configuratieparameter
+    <a href="https://github.com/centrumvoorstandaarden/respec/wiki/specStatus">
+     specStatus
+    </a>
+    . Je kan dit zelf
       aanvullen door hier wat te typen.
-    </p>
+   </p>
   </section>
-
-  <section data-include-format="markdown" data-include="ch01_Inleiding.md"></section>
-  <section data-include-format="markdown" data-include="ch02_Strategie.md"></section>
-  <section data-include-format="markdown" data-include="ch03_Tactiek.md"></section>
-  <section data-include-format="markdown" data-include="ch04_Operationeel.md"></section>
-  <section data-include-format="markdown" data-include="ch05_Implementatieondersteuning.md"></section>
-  <section data-include-format="markdown" data-include="ch06_Communicatie.md"></section>
-
-  <section data-include-format="markdown" data-include="bijlage01_Respec.md"></section>
-  <section data-include-format="markdown" data-include="bijlage02_GebruikGithub.md"></section>
-  <section data-include-format="markdown" data-include="bijlage03_Versienummering.md"></section>
-
-    <!-- <section id="tof" class="informative appendix"></section> -->
-    <section id='conformance'>
-      <!-- This section is filled automatically by ReSpec. -->
-    </section>
-
-    <section id="tof">
-      <!-- This section is filled with figures automatically by ReSpec. -->
-    </section>
-
-    <section id="toc">
-      <!-- This section is filled with content automatically by ReSpec. -->
-    </section>
-
-    <section id="index">
-      <!-- This section is filled with content automatically by ReSpec. -->
-    </section>
-
-    <section id="github-contributors">
-      <h1>Contributors</h1>
-      <p id="gh-contributors"></p>
-      <!-- This p is filled with content automatically by ReSpec. -->
-    </section>
-</body>
-
+  <section data-include="ch01_Inleiding.md" data-include-format="markdown">
+  </section>
+  <section data-include="ch02_Strategie.md" data-include-format="markdown">
+  </section>
+  <section data-include="ch03_Tactiek.md" data-include-format="markdown">
+  </section>
+  <section data-include="ch04_Operationeel.md" data-include-format="markdown">
+  </section>
+  <section data-include="ch05_Implementatieondersteuning.md" data-include-format="markdown">
+  </section>
+  <section data-include="ch06_Communicatie.md" data-include-format="markdown">
+  </section>
+  <section data-include="bijlage01_Respec.md" data-include-format="markdown">
+  </section>
+  <section data-include="bijlage02_GebruikGithub.md" data-include-format="markdown">
+  </section>
+  <section data-include="bijlage03_Versienummering.md" data-include-format="markdown">
+  </section>
+  <!-- <section id="tof" class="informative appendix"></section> -->
+  <section id="conformance">
+   <!-- This section is filled automatically by ReSpec. -->
+  </section>
+  <section id="tof">
+   <!-- This section is filled with figures automatically by ReSpec. -->
+  </section>
+  <section id="toc">
+   <!-- This section is filled with content automatically by ReSpec. -->
+  </section>
+  <section id="index">
+   <!-- This section is filled with content automatically by ReSpec. -->
+  </section>
+  <section id="github-contributors">
+   <h1>
+    Contributors
+   </h1>
+   <p id="gh-contributors">
+   </p>
+   <!-- This p is filled with content automatically by ReSpec. -->
+  </section>
+ </body>
 </html>
