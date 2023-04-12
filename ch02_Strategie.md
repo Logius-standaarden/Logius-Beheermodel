@@ -89,7 +89,7 @@ De agenda en stukken van het Technisch overleg zijn openbaar.
 Dit overleg is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van major/minor releases van de
 standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: de Programmeringssraad GDI.
+strategisch/besluitvormende gremium: de Programmeringsraad GDI.
 
 Binnen de MIDO structuur hebben de Programmeringstafels de rol van tactisch overleg. 
 Afhankelijk van het thema is die de Programmeringstafel Gegevensuitwisseling,
@@ -117,12 +117,12 @@ een vast te stellen nieuwe versie.
 
 De tactische en strategische overleglagen in de Digikoppeling governance
 zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
-Overheidsbreed Beleidsoverleg Digitale overheid (OBDO).
+Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO).
 
 De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
 voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
 van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
-wijziging maar neemt een besluit over een geagregeerd pakket aan wijzigingen als 
+wijziging maar neemt een besluit over een geaggregeerd pakket aan wijzigingen als 
 nieuwe versie.
 
 
@@ -152,7 +152,7 @@ het OBDO gevraagd worden om een besluit, uiteindelijk heeft de voorzitter
 van het OBDO (ministerie van BZK) de beslissende stem.
 
 Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
-niveau's. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt 
+niveaus. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt 
 de beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen 
 zelf doorvoeren zonder formele beslissing door het besluitvormend overleg. In de
 [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
@@ -165,7 +165,7 @@ Voor andere wijzigingen is altijd een besluit van het OBDO nodig
 
 Uitbreidingen en aanpassingen in de xxx standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
-kunnen op viif manieren participeren aan het wijzigings- en
+kunnen op vijf manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
 1.  Als lid van de Community. Er is geen formeel lidmaatschap nodig 
@@ -187,7 +187,7 @@ besluitvormingsproces:
 
 Personen/partijen die willen deelnemen aan het Technisch Overleg
 kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
-bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
+bij de standaard. Met inachtneming van bovenstaande punten, beoordeelt
 Logius de aanvraag.
 
 ## Financiering
