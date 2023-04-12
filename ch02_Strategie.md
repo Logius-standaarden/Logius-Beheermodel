@@ -84,7 +84,7 @@ is vrij voor eenieder die een belang heeft bij de standaard
 
 De agenda en stukken van het Technisch overleg zijn openbaar.
 
-#### Tactisch/strategisch overleg: de programmeringstafel
+#### Tactisch overleg: de programmeringstafel
 
 Dit overleg is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van major/minor releases van de
