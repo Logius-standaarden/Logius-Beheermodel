@@ -65,9 +65,13 @@ de governance op de standaard:
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
 xxx-standaard en suggesties kan doen voor de doorontwikkeling van de
-standaard. Dergelijke vragen en suggesties worden door Logius Standaardenbeheer verzameld
-en voorgelegd aan het Technisch Overleg en als issue geregistreerd bij
-de werkgroep _xxxx_ van het kennisplatform _xxxx_.
+standaard. Dergelijke vragen en suggesties worden door Logius Standaardenbeheer
+verzameld en voorgelegd aan het Technisch Overleg en als issue geregistreerd.
+
+Omdat iedere belangstellende vragen of voorstellen tot wijziging in
+kan dienen is het niet nodig lid te worden van de community om een
+bijdrage te leveren. Iedereen die bijdraagt aan de standaard is
+daarmee lid van de community.
 
 #### Technisch Overleg
 
@@ -78,32 +82,49 @@ releaseplanning en de roadmap opgesteld. Deelname aan het Technisch Overleg
 is vrij voor eenieder die een belang heeft bij de standaard
 (overheid, wetenschap en markt).
 
+De agenda en stukken van het Technisch overleg zijn openbaar.
+
 #### Tactisch/strategisch overleg: de programmeringstafel
-Dit gremium is verantwoordelijk voor het vaststellen van de
+
+Dit overleg is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van major/minor releases van de
 standaard en dient als het voorportaal van het
 strategisch/besluitvormende gremium: de Programmeringssraad GDI.
 
-Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
-de rol van tactisch overleg.
+Binnen de MIDO structuur hebben de Programmeringstafels de rol van tactisch overleg. 
+Afhankelijk van het thema is die de Programmeringstafel Gegevensuitwisseling,
+Infrastructuur of Interactie.
 [Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
 die deel uitmaakt van de agenda van het overleg.
 
+#### Het Strategisch overleg: De Programmeringsraad GDI
 
-#### Het besluitvormend en strategisch overleg: De Programmeringsraad GDI
+In de MIDO structuur heeft de Programmeringsraad GDI 
+een rol in het strategisch beheer van standaarden.
 
-De MIDO structuur biedt de mogelijkheid om de Programmeringsraad GDI 
-te laten besluiten over de standaarden. Wijzigingen worden indien 
-nodig ter informatie aan het Overheidsbreed 
-Beleidsoverleg Digitale Overheid (OBDO) voorgelegd.
+Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
+adviezen van het technisch overleg, het tactisch overleg en het advies van de
+beheerorganisatie. Daarnaast keurt het strategisch overleg de door de 
+stakeholders voorgestelde richting goed die aan de beheerorganisatie voorgelegd
+wordt. Bijvoorbeeld een voorstel tot ingrijpende wijziging zoals het overgaan
+naar een nieuwe (onderliggende) standaard kan in het strategisch overleg
+goedgekeurd worden.
 
-Het strategisch overleg neemt besluiten op basis van adviezen van de
-tactisch en strategische overleggen en het advies van de
-beheerorganisatie. Daarnaast kan het strategisch overleg een
-richtinggevend besluit nemen wat aan de beheerorganisatie voorgelegd
-wordt. Bijvoorbeeld een ingrijpende wijziging zoals het overgaan naar
-een nieuwe (onderliggende) standaard kan in het strategisch overleg
-besloten worden.
+De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
+een vast te stellen nieuwe versie.
+
+##### Besluitvorming: OBDO
+
+De tactische en strategische overleglagen in de Digikoppeling governance
+zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
+Overheidsbreed Beleidsoverleg Digitale overheid (OBDO).
+
+De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
+voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
+van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
+wijziging maar neemt een besluit over een geagregeerd pakket aan wijzigingen als 
+nieuwe versie.
+
 
 In tabelvorm:
 
@@ -111,17 +132,17 @@ In tabelvorm:
 |     ---      |    ----      |         ---          |                   ---                     |
 | **Community** (omvang beperkt) | Inhoud -- delen    | 1. Volgen van ontwikkelingen.<br/> 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community.<br/> 2. Deelnemen aan stuurgroep en werkgroepen |
 | Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzigingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
-| Programmeringstafel | Besluitvormend - adviserend | 1. Vaststellen roadmap van de standaard.<br/> 2. Vaststellen major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
-| Programmeringsraad | Besluitvormend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2.Vaststellen beheermodel van de standaard.<br/> 3. Vaststellen externe publicaties over het standaardenbeleid en releases. | 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| Programmeringstafel | Adviserend | 1. Goedkeuren roadmap van de standaard.<br/> 2. Goedkeuren major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
+| Programmeringsraad | Adviserend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van de standaard. | 1. Samenvoegen van geadviseerde wijzigingen in een release.<br/> 2. Toelichten geadviseerde wijzigingen in een release |
 
 ### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
 Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
 wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
-initiatief van het Technisch Overleg)
+initiatief van het Technisch Overleg.
 
 ### Besluitvorming
-
 In alle overleggremia vindt besluitvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
@@ -130,14 +151,22 @@ eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium
 het OBDO gevraagd worden om een besluit, uiteindelijk heeft de voorzitter 
 van het OBDO (ministerie van BZK) de beslissende stem.
 
+Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
+niveau's. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt 
+de beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen 
+zelf doorvoeren zonder formele beslissing door het besluitvormend overleg. In de
+[versienummering](#bijlage-versie-nummering-logius-standaarden) worden
+deze zeer kleine wijzigingen aangeduid als _patch releases_.
+
+Voor andere wijzigingen is altijd een besluit van het OBDO nodig 
+(op basis van advies van Programmeringsraad/Programmeringstafel).
+
 ### Deelname
 
 Uitbreidingen en aanpassingen in de xxx standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
-kunnen op vier manieren participeren aan het wijzigings- en
+kunnen op viif manieren participeren aan het wijzigings- en
 besluitvormingsproces:
-
-
 
 1.  Als lid van de Community. Er is geen formeel lidmaatschap nodig 
     om een issue/wijziging in te dienen. Iedereen die een issue indient 
@@ -154,10 +183,10 @@ besluitvormingsproces:
     1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
        uitgenodigd.
 4.  Als lid van de Programmeringsraad GDI.
+5.  Als lid van het OBDO.
 
-
-Personen/partijen die willen deelnemen aan het technisch overleg
-kunnen een mail sturen aan xxxx waarin zij aangeven wat hun belang is
+Personen/partijen die willen deelnemen aan het Technisch Overleg
+kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
 bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
