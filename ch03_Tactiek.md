@@ -57,16 +57,18 @@ van de voor overheden verplichte 'pas toe of leg uit' status en heeft
 Logius het beheer van dit normatieve deel op zich genomen.
 </aside>
 
+De xxx standaard sluit aan op onderstaande standaarden. De aansluiting
+vindt plaats binnen de vastgestelde releasetermijnen.
+
+1. ---
+2. ---
+
 ### Nederlandse Overheid Referentie Architectuur (NORA)
 
 De xxx standaard volgt de principes van de Nederlandse Overheid
 Referentie Architectuur. Zie voor meer informatie:
 [<span class="underline">https://www.noraonline.nl/wiki/NORA\_online</span>](https://www.noraonline.nl/wiki/NORA_online)
 
-4.  ###
-
-    1.
-    2.
 
 ## Rechtenbeleid
 
