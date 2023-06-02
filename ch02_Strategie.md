@@ -143,22 +143,24 @@ wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
 initiatief van het Technisch Overleg.
 
 ### Besluitvorming
-In alle overleggremia vindt oordeelvorming plaats op basis van
+
+Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
+niveaus. 
+
+In alle overleggremia vindt oordeelorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium 
-(het OBDO) geen consensus bereikt kan worden heeft uiteindelijk heeft 
-de voorzitter  van het OBDO (ministerie van BZK) de beslissende stem.
+(het OBDO) geen consensus bereikt kan worden heeft de voorzitter 
+van het OBDO (ministerie van BZK) de beslissende stem.
 
-Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
-niveaus. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt 
-de beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen 
-zelf doorvoeren zonder formele beslissing door het besluitvormend overleg. In de
-[versienummering](#bijlage-versie-nummering-logius-standaarden) worden
-deze zeer kleine wijzigingen aangeduid als _patch releases_.
-
-Voor andere wijzigingen is altijd een besluit van het OBDO nodig 
-(op basis van advies van Programmeringsraad/Programmeringstafel).
+Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de 
+beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen 
+zelf doorvoeren zonder formele beslissing door het besluitvormend overleg. 
+In de [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
+deze zeer kleine wijzigingen aangeduid als _patch releases_. Voor alle andere 
+wijzigingen is altijd een besluit van het OBDO nodig (op basis van advies van 
+Programmeringsraad/Programmeringstafel).
 
 ### Deelname
 
