@@ -113,7 +113,7 @@ goedgekeurd worden.
 De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
 een vast te stellen nieuwe versie.
 
-##### Besluitvorming: OBDO
+#### Besluitvorming: OBDO
 
 De tactische en strategische overleglagen in de Digikoppeling governance
 zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
@@ -136,20 +136,19 @@ In tabelvorm:
 | Programmeringsraad | Adviserend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 | OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van de standaard. | 1. Samenvoegen van geadviseerde wijzigingen in een release.<br/> 2. Toelichten geadviseerde wijzigingen in een release |
 
-### Architectuurraad
+#### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
 Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
 wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
 initiatief van het Technisch Overleg.
 
 ### Besluitvorming
-In alle overleggremia vindt besluitvorming plaats op basis van
+In alle overleggremia vindt oordeelvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium 
-(de Programmeringsraad GDI) geen consensus bereikt kan worden kan 
-het OBDO gevraagd worden om een besluit, uiteindelijk heeft de voorzitter 
-van het OBDO (ministerie van BZK) de beslissende stem.
+(het OBDO) geen consensus bereikt kan worden heeft uiteindelijk heeft 
+de voorzitter  van het OBDO (ministerie van BZK) de beslissende stem.
 
 Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
 niveaus. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt 
