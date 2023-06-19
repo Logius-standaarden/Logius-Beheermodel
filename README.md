@@ -9,3 +9,11 @@ Links naar de gerespecte versies van dit document:
 - html: https://logius-standaarden.github.io/Logius-Beheermodel/
 - html(static): https://logius-standaarden.github.io/Logius-Beheermodel/snapshot.html
 - [PDF-versie](https://github.com/Logius-standaarden/Logius-Beheermodel/blob/develop/Logius-Beheermodel.pdf)
+
+## Functies voor beheer in github
+
+In het standaard operationeel beheerproces gebruiken we een aantal functies van github:
+- formulieren voor het indienen van wijzigingsvoorstellen en correcties op de documentatie
+- 
+
+ Deze worden automatisch overgenomen naar nieuwe beheermodellen die op dit beheermodel gebaseerd worden. Ze worden ook automatisch gekopieerd naar bestaande beheermodellen.
