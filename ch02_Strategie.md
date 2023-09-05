@@ -99,8 +99,10 @@ die deel uitmaakt van de agenda van het overleg.
 
 #### Het Strategisch overleg: De Programmeringsraad GDI
 
-In de MIDO structuur heeft de Programmeringsraad GDI 
-een rol in het strategisch beheer van standaarden.
+In de MIDO structuur heeft de Programmeringsraad GDI (PGDI) een rol in 
+het strategisch beheer van standaarden. De programmeringsraad is gemandateerd 
+(door het [OBDO](#overheidsbreed-beleidsoverleg-digitale-overheid-obdo))
+om besluiten te nemen over wijzigingen op de standaard.
 
 Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
 adviezen van het technisch overleg, het tactisch overleg en het advies van de
@@ -113,18 +115,17 @@ goedgekeurd worden.
 De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
 een vast te stellen nieuwe versie.
 
-#### Besluitvorming: OBDO
+#### Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO)
 
-De tactische en strategische overleglagen in de Digikoppeling governance
-zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
-Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO).
+Het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) is het overkoepelend
+overleg voor de MIDO overleggen. Formeel vindt besluitvorming plaats op het
+niveau van het OBDO. Voor GDI standaarden waarvoor het Forum Standaardisatie
+het predicaat _uitstekend beheer_ heeft toegekend mandateert het OBDO de
+programmeringsraad tot het nemen van besluiten over wijzigingen op de standaard. 
+Het OBDO heeft wel een besluitvormende rol voor standaarden die (nog) niet het
+predicaat _uitstekend beheer_ hebben gekregen.
 
-De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
-voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
-van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
-wijziging maar neemt een besluit over een geaggregeerd pakket aan wijzigingen als 
-nieuwe versie.
-
+Het OBDO wordt geïnformeerd over wijzigingen op de standaard. 
 
 In tabelvorm:
 
@@ -133,8 +134,8 @@ In tabelvorm:
 | **Community** (omvang beperkt) | Inhoud -- delen    | 1. Volgen van ontwikkelingen.<br/> 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community.<br/> 2. Deelnemen aan stuurgroep en werkgroepen |
 | Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzigingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
 | Programmeringstafel | Adviserend | 1. Goedkeuren roadmap van de standaard.<br/> 2. Goedkeuren major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
-| Programmeringsraad | Adviserend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
-| OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van de standaard. | 1. Samenvoegen van geadviseerde wijzigingen in een release.<br/> 2. Toelichten geadviseerde wijzigingen in een release |
+| Programmeringsraad | Besluitvormend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van GDI standaarden zonder predicaat _uitstekend beheer_ | Toelichten geadviseerde wijzigingen in een release |
 
 #### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
@@ -158,9 +159,10 @@ Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de
 beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen 
 zelf doorvoeren zonder formele beslissing door het besluitvormend overleg. 
 In de [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
-deze zeer kleine wijzigingen aangeduid als _patch releases_. Voor alle andere 
-wijzigingen is altijd een besluit van het OBDO nodig (op basis van advies van 
-Programmeringsraad/Programmeringstafel).
+deze zeer kleine wijzigingen aangeduid als _patch releases_. Voor andere
+wijzigingen is een besluit van het PGDI nodig (op basis van advies van 
+de Programmeringstafel en de beheerorganisatie). Het OBDO wordt geïnformeerd 
+over wijzigingen op de standaard.
 
 ### Deelname
 
