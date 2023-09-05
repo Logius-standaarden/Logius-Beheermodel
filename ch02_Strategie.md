@@ -119,11 +119,8 @@ een vast te stellen nieuwe versie.
 
 Het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) is het overkoepelend
 overleg voor de MIDO overleggen. Formeel vindt besluitvorming plaats op het
-niveau van het OBDO. Voor GDI standaarden waarvoor het Forum Standaardisatie
-het predicaat _uitstekend beheer_ heeft toegekend mandateert het OBDO de
+niveau van het OBDO. Voor GDI standaarden  mandateert het OBDO de
 programmeringsraad tot het nemen van besluiten over wijzigingen op de standaard. 
-Het OBDO heeft wel een besluitvormende rol voor standaarden die (nog) niet het
-predicaat _uitstekend beheer_ hebben gekregen.
 
 Het OBDO wordt geïnformeerd over wijzigingen op de standaard. 
 
