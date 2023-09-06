@@ -132,7 +132,7 @@ In tabelvorm:
 | Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzigingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
 | Programmeringstafel | Adviserend | 1. Goedkeuren roadmap van de standaard.<br/> 2. Goedkeuren major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
 | Programmeringsraad | Besluitvormend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
-| OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van GDI standaarden zonder predicaat _uitstekend beheer_ | Toelichten geadviseerde wijzigingen in een release |
+| OBDO    | Besluitvormend | Het OBDO wordt geïnformeerd over wijzigingen op de standaard. | Toelichten wijzigingen in een release |
 
 #### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
