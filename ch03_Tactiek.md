@@ -72,34 +72,38 @@ Referentie Architectuur. Zie voor meer informatie:
 
 ## Rechtenbeleid
 
-<aside class="example">
-De xxx Standaard zelf en dit beheermodel vallen onder de Creative
-Commons licentie (<span class="underline">Creative Commons</span>
-<span class="underline">Attribution 4.0 License</span>) Dit houdt in
-dat het is toegestaan om deze documenten te gebruiken, verder
-te](https://creativecommons.org/licenses/by/4.0/) verspreiden en aan
-te passen. Dit werk en de specificaties van de xxx standaard worden
-royaltee-free ter beschikking gesteld. Organisaties en personen die
-bijdragen aan de ADR dienen dit onder dezelfde voorwaarden te doen als
-bij het originele werk. Door bij te dragen aan de ADR verklaren zij
-hiermee in te stemmen.
+Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 4.0
+Unported licentie.
+
+![Creative Commons Naamsvermelding 4.0 Unported licentie](https://gitdocumentatie.logius.nl/publicatie/respec/media/logos/cc-by.svg "Creative Commons Naamsvermelding 4.0 Unported licentie")
+
+Meer informatie over de precieze voorwaarden van deze licentie vindt u
+op de website van Creative Commons http://creativecommons.nl/ en
+specifiek voor deze licentie een samenvatting onder
+http://creativecommons.org/licenses/by/4.0/deed.nl en de volledige
+licentietekst onder
+http://creativecommons.org/licenses/by/4.0/legalcode.
+
+Dit werk en de specificaties van de de xxx standaard worden
+royalty free ter beschikking gesteld. Organisaties en personen die
+bijdragen aan de xxx standaard dienen hun bijdragen vrij te geven zodanig
+dat hieraan voldaan kan worden. Door bij te dragen aan de xxx standaard
+verklaren zij hiermee in te stemmen.
 
 Uitgesloten van alle bovenstaande zijn rechten verbonden aan de
-standaarden, profielen en andere onderdelen waar de xxx gebruik van
-maakt. Hierop zijn de rechten van de betreffende standaarden,
-profielen en andere onderdelen zelf van toepassing. Dit zijn in geval
-van de xxx allemaal open standaarden.
-</aside>
+standaarden, profielen en andere onderdelen waar de xxx standaard gebruik
+van maakt. Hierop zijn de rechten van de betreffende standaarden,
+profielen en andere onderdelen zelf van toepassing.
+
+
 
 ## Kwaliteitsbeleid en benchmarking
 
-<aside class="example">
 Zoals gezegd wordt het beheer van de xxx standaard volledig open
 ingevuld (zie ook de paragraaf <span class="underline">Bomos</span> en
 <span class="underline">Governance</span>) Dit borgt dat zoveel
 mogelijk belangstellenden en belanghebbenden betrokken zijn bij
 wijzigingen en besluitvorming die wijzigingen.
-</aside>
 
 ## Adoptie en erkenning
 
