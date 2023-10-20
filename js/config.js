@@ -18,10 +18,10 @@ var respecConfig = {
   nl_markdownTableClass: "dkkvs",
   previousPublishDate: "2020-12-31",
   previousPublishVersion: "0.1",
-  pubDomain: "bomos",
-  publishDate: "2022-06-01",
+  pubDomain: "logius",
+  publishDate: "2023-09-23",
   publishVersion: "1.0",
-  shortName: "template",
+  shortName: "beheermodel",
   specStatus: "WV",
   specType: "HR"
 };
