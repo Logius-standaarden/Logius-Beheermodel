@@ -1,5 +1,5 @@
 name: Aanpassing op documentatie
-description: Stel een (tekstueele) wijziging voor in de documentatie van de Digikoppeling standaard
+description: Stel een (tekstuele) wijziging voor in de documentatie van de Digikoppeling standaard
 title: "RFC ..."
 labels: ["digikoppeling", "documentatie"]
 body:
@@ -24,14 +24,14 @@ body:
     id: contact
     attributes:
       label: Naam
-      description: Naam. Uw naam wordt online getoond in het issue. U kunt ook anoniem invullem.
+      description: Naam. Uw naam wordt online getoond in het issue. U kunt ook anoniem invullen.
     validations:
       required: false
   - type: input
     id: email
     attributes:
       label: Email
-      description: E-mail adres. Uw e-mail adres wordt online getoond in het issue. U kunt ook anoniem invullem.
+      description: E-mailadres. Uw e-mailadres wordt online getoond in het issue. U kunt ook anoniem invullen.
     validations:
       required: false
   - type: input
