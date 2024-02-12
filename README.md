@@ -7,8 +7,8 @@ toepasbaar.
 
 Links naar de gerespecte versies van dit document:
 - html: https://logius-standaarden.github.io/Logius-Beheermodel/
-- html(static): https://logius-standaarden.github.io/Logius-Beheermodel/snapshot.html
-- [PDF-versie](https://github.com/Logius-standaarden/Logius-Beheermodel/blob/develop/Logius-Beheermodel.pdf)
+- html(static): https://gitdocumentatie.logius.nl/publicatie/logius/beheermodel/
+- [PDF-versie](https://gitdocumentatie.logius.nl/publicatie/logius/beheermodel/Logius-Beheermodel.pdf)
 
 ## Functies voor beheer in github
 
