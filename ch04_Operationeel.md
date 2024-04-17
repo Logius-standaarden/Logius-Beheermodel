@@ -93,7 +93,7 @@ De onderdelen van de xxx standaard en de voorzieningen zullen gezamenlijk en afz
 Het vaststellen van een nieuwe release van afzonderlijke onderdelen en een samenhangende  architectuur wordt gedaan volgens het beleid in paragraaf 2.4. Het beheer zal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het tactisch/strategisch overleg maar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
 
 Voor nieuwe releases wordt uitgegaan van een aantal principes:
-1. De Digikoppeling-standaard dient in principe zo stabiel te zijn dat
+1. De standaard dient in principe zo stabiel te zijn dat
    nieuwe releases van de standaard bestaande implementaties van een
    oudere release niet tot migratie verplichten.
 2. Nieuwe releases van de standaard dienen als nieuwe profielen binnen
@@ -106,30 +106,30 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
    van bestaande implementatie (beperking impact).
 3. Wijzigingsaanvragen kunnen door belanghebbenden worden ingediend
    bij de beheerder.
-4. Het Digikoppeling Technisch Overleg is verantwoordelijk voor de
+4. Het Technisch Overleg is verantwoordelijk voor de
    beoordeling van ingediende wijzigingsaanvragen, uitwerken ervan
    en de inhoudelijke (door)ontwikkeling van de te beheren
-   Digikoppeling-onderdelen.
-5. De Digikoppeling-beheerder zorgt voor de voorbereiding van de
+   onderdelen van de standaard.
+5. De beheerder zorgt voor de voorbereiding van de
    releaseplanning.
 6. Het tactisch overleg beoordeelt de releasevoorstellen en stelt
-   het beleid en de roadmap van nieuwe releases van de
-   Digikoppeling-standaard vast in het releaseplanningsproces.
+   het beleid en de roadmap van nieuwe releases van de standaard 
+   vast in het releaseplanningsproces.
 7. Bij het vaststellen van de inhoud van een nieuwe release van een
-   Digikoppeling onderdeel wordt gestreefd naar consensus. Als consensus
-   uitblijft zal de Digikoppeling beheerder, samen met het Ministerie
+   onderdeel van de standaard wordt gestreefd naar consensus. Als consensus
+   uitblijft zal de beheerder, samen met het Ministerie
    van BZK de inhoud van een nieuwe release vaststellen.
 8. Bij het vaststellen van een nieuwe release zal het strategisch overleg
    uitspraken doen over het ondersteunen van oude releases.
-9. Maximaal kunnen twee (opéénvolgende) releases van een Digikoppeling
+9. Maximaal kunnen twee (opéénvolgende) releases van een
    onderdeel gelijktijdig de status „In Gebruik‟ hebben.
-10. De releasetermijnen voor de verschillende Digikoppeling-onderdelen
+10. De releasetermijnen voor de verschillende onderdelen
    zijn afgestemd op de omgeving waarin deze worden gebruikt.
    Koppelvlak standaarden hebben bijvoorbeeld een kortere releasetermijn
    dan de bovenliggende architectuur.
 11. In bijzondere gevallen kan van de releasetermijn worden afgeweken.
 12. Op het moment dat het functionele toepassingsgebied van
-    Digikoppeling, waarvoor het pas-toe-of-leg-uit-regime geldt
+    waarvoor het pas-toe-of-leg-uit-regime geldt
     wijzigt, wordt dit voorgelegd aan Forum Standaardisatie en het
     OBDO zodat het regime kan worden bekrachtigd voor dit nieuwe
     toepassingsgebied.
@@ -141,7 +141,7 @@ semantische versienummering
 [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
 
 De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de
-standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:
+standaard hebben we de volgende _impactmatrix_ opgesteld:
 
 | Standaard                |  Toevoegen  |   Wijzigen  | Verwijderen |  Vervallen  |
 |--------------------------|-------------|-------------|-------------|-------------|
