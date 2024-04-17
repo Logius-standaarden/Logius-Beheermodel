@@ -136,7 +136,7 @@ In tabelvorm:
 
 #### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
-Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
+beheerproces. Wel kan de beheerder advies vragen over een
 wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
 initiatief van het Technisch Overleg.
 

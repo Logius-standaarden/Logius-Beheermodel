@@ -21,7 +21,7 @@ standaard.
 
 2.  Belanghebbenden kunnen op verschillende manieren participeren.
     1. op persoonlijke titel (het proces is volledig open)
-    2. als lid van de Digikoppeling Community
+    2. als lid van de community voor de standaard
     3. als lid van één van de overleggen: het Technisch Overleg,
        de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
@@ -42,11 +42,11 @@ een _patch_. Een patch is een kleine (tekstuele) wijziging die geen impact
 heeft op implementaties.
 
 Een _wijziging_ is een aanpassing met impact op de werking of het proces van
-de Digikoppeling standaard. Waarbij nog een onderscheid gemaakt wordt tussen
+de standaard. Waarbij nog een onderscheid gemaakt wordt tussen
 wijzigingen met kleine en met grote impact.
 
 Patches en wijzigingen worden verzameld in een _release_. Een release is een
-nieuwe versie van de Digikoppeling standaard. Nieuwe releases worden regelmatig
+nieuwe versie van de standaard. Nieuwe releases worden regelmatig
 doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en,
 afhankelijk van de impact van een nieuwe release door een programmeringstafel.
 Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
@@ -55,11 +55,11 @@ een _patch_. Een patch is een kleine (tekstuele) wijziging die geen impact
 heeft op implementaties.
 
 Een _wijziging_ is een aanpassing met impact op de werking of het proces van
-de Digikoppeling standaard. Waarbij nog een onderscheid gemaakt wordt tussen
+de standaard. Waarbij nog een onderscheid gemaakt wordt tussen
 wijzigingen met kleine en met grote impact.
 
 Patches en wijzigingen worden verzameld in een _release_. Een release is een
-nieuwe versie van de Digikoppeling standaard. Nieuwe releases worden regelmatig
+nieuwe versie van de standaard. Nieuwe releases worden regelmatig
 doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en,
 afhankelijk van de impact van een nieuwe release door een programmeringstafel.
 Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
@@ -87,9 +87,10 @@ Een patch is een zeer kleine wijziging die geen impact heeft op de implementatie
 3. Publicatie van een patch in de komende release
 
 ### Releases
-De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
 
-Het vaststellen van een nieuwe release van afzonderlijke Digikoppeling onderdelen en een samenhangende Digikoppeling architectuur wordt gedaan volgens het beleid in paragraaf 2.4. Digikoppeling beheer zal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het tactisch/strategisch overleg maar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
+De onderdelen van de xxx standaard en de voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
+
+Het vaststellen van een nieuwe release van afzonderlijke onderdelen en een samenhangende  architectuur wordt gedaan volgens het beleid in paragraaf 2.4. Het beheer zal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het tactisch/strategisch overleg maar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
 
 Voor nieuwe releases wordt uitgegaan van een aantal principes:
 1. De Digikoppeling-standaard dient in principe zo stabiel te zijn dat
