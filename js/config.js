@@ -3,11 +3,13 @@ var respecConfig = {
         "label" : "pdf",
         "uri" : "Logius-Beheermodel.pdf"
       } ],
-  authors: [ { 
-        "mailto" : "bomos@logius.nl",
-        "name" : "Logius",
+  authors: [
+    { 
+        "company" : "Logius",
+        "name" : "Edwin Wisse",
         "url" : "https://logius.nl/standaarden"
-      } ],
+    }
+  ],
   editors: [ { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
