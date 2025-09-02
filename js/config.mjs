@@ -1,8 +1,6 @@
-var respecConfig = {
-  alternateFormats: [ { 
-        "label" : "pdf",
-        "uri" : "Logius-Beheermodel.pdf"
-      } ],
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   authors: [
     { 
         "company" : "Logius",
@@ -25,4 +23,4 @@ var respecConfig = {
   shortName: "beheermodel",
   specStatus: "WV",
   specType: "HR"
-};
+});
