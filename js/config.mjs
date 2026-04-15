@@ -5,13 +5,13 @@ loadRespecWithConfiguration({
     { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
     }
   ],
   editors: [ { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       } ],
   github: "https://github.com/Logius-standaarden/Logius-Beheermodel",
   nl_markdownCodeClass: "code",
