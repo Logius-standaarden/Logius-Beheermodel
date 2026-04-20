@@ -5,18 +5,18 @@ loadRespecWithConfiguration({
     { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
     }
   ],
   editors: [ { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       } ],
   github: "https://github.com/Logius-standaarden/Logius-Beheermodel",
   nl_markdownCodeClass: "code",
   nl_markdownTableClass: "dkkvs",
-  pubDomain: "logius",
+  pubDomain: "dk",
   publishDate: "2023-09-23",
   publishVersion: "1.0",
   prevVersion: [],
